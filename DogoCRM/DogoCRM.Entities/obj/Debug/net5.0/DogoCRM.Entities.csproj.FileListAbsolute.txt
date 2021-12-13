@@ -1,0 +1,15 @@
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\bin\Debug\net5.0\DogoCRM.Entities.deps.json
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\bin\Debug\net5.0\DogoCRM.Entities.dll
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\bin\Debug\net5.0\ref\DogoCRM.Entities.dll
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\bin\Debug\net5.0\DogoCRM.Entities.pdb
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\bin\Debug\net5.0\DogoCRM.Shared.dll
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\bin\Debug\net5.0\DogoCRM.Shared.pdb
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\obj\Debug\net5.0\DogoCRM.Entities.csproj.AssemblyReference.cache
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\obj\Debug\net5.0\DogoCRM.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\obj\Debug\net5.0\DogoCRM.Entities.AssemblyInfoInputs.cache
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\obj\Debug\net5.0\DogoCRM.Entities.AssemblyInfo.cs
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\obj\Debug\net5.0\DogoCRM.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\obj\Debug\net5.0\DogoCRM.Entities.csproj.CopyComplete
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\obj\Debug\net5.0\DogoCRM.Entities.dll
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\obj\Debug\net5.0\ref\DogoCRM.Entities.dll
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM.Entities\obj\Debug\net5.0\DogoCRM.Entities.pdb

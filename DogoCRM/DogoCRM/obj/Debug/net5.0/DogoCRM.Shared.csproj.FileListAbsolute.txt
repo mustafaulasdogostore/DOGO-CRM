@@ -1,0 +1,12 @@
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\bin\Debug\net5.0\DogoCRM.Shared.deps.json
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\bin\Debug\net5.0\DogoCRM.Shared.dll
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\bin\Debug\net5.0\ref\DogoCRM.Shared.dll
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\bin\Debug\net5.0\DogoCRM.Shared.pdb
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\obj\Debug\net5.0\DogoCRM.Shared.csproj.AssemblyReference.cache
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\obj\Debug\net5.0\DogoCRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\obj\Debug\net5.0\DogoCRM.Shared.AssemblyInfoInputs.cache
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\obj\Debug\net5.0\DogoCRM.Shared.AssemblyInfo.cs
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\obj\Debug\net5.0\DogoCRM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\obj\Debug\net5.0\DogoCRM.Shared.dll
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\obj\Debug\net5.0\ref\DogoCRM.Shared.dll
+C:\Users\mustafa.ulas\source\repos\DogoCRM\DogoCRM\obj\Debug\net5.0\DogoCRM.Shared.pdb

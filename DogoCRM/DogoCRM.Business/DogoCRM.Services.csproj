@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="JetBrains.ReSharper.CommandLineTools" Version="2021.2.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DogoCRM.Data\DogoCRM.Data.csproj" />
+    <ProjectReference Include="..\DogoCRM.Entities\DogoCRM.Entities.csproj" />
+    <ProjectReference Include="..\DogoCRM\DogoCRM.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

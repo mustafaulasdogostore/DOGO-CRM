@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogoCRM.Entities", "DogoCRM.Entities\DogoCRM.Entities.csproj", "{D1D1884C-1851-4BCD-A0BB-886A07C9C475}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogoCRM.Shared", "DogoCRM\DogoCRM.Shared.csproj", "{E0265D6D-7258-4D01-869B-B137B009BEB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogoCRM.Data", "DogoCRM.Data\DogoCRM.Data.csproj", "{7D71538C-0D77-4781-AB2C-F61C19D554D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogoCRM.Services", "DogoCRM.Business\DogoCRM.Services.csproj", "{9843AC0F-DCAF-47BF-B937-A008D6DFEA55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogoCRM.MVC", "DogoCRM.MVC\DogoCRM.MVC.csproj", "{CCD1ABB3-DCF2-42D3-BA69-AF11E674AE68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1D1884C-1851-4BCD-A0BB-886A07C9C475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D1884C-1851-4BCD-A0BB-886A07C9C475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D1884C-1851-4BCD-A0BB-886A07C9C475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D1884C-1851-4BCD-A0BB-886A07C9C475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0265D6D-7258-4D01-869B-B137B009BEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0265D6D-7258-4D01-869B-B137B009BEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0265D6D-7258-4D01-869B-B137B009BEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0265D6D-7258-4D01-869B-B137B009BEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D71538C-0D77-4781-AB2C-F61C19D554D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D71538C-0D77-4781-AB2C-F61C19D554D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D71538C-0D77-4781-AB2C-F61C19D554D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D71538C-0D77-4781-AB2C-F61C19D554D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9843AC0F-DCAF-47BF-B937-A008D6DFEA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9843AC0F-DCAF-47BF-B937-A008D6DFEA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9843AC0F-DCAF-47BF-B937-A008D6DFEA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9843AC0F-DCAF-47BF-B937-A008D6DFEA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD1ABB3-DCF2-42D3-BA69-AF11E674AE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD1ABB3-DCF2-42D3-BA69-AF11E674AE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD1ABB3-DCF2-42D3-BA69-AF11E674AE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD1ABB3-DCF2-42D3-BA69-AF11E674AE68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36AFA282-4EE3-42C8-9C92-3CB5328FDF8B}
+	EndGlobalSection
+EndGlobal
